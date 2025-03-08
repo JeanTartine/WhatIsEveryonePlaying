@@ -1,0 +1,602 @@
+[
+    {
+        "gameId": 1,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87.jpg?t=1740450123",
+        "gameName": "Counter-Strike 2",
+        "concurrentPlayersPeakToday": 1623619
+    },
+    {
+        "gameId": 2,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg?t=1740447507",
+        "gameName": "Dota 2",
+        "concurrentPlayersPeakToday": 597067
+    },
+    {
+        "gameId": 3,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2767030/c984653538cfda1d1b195bd396b58936c2c65ae7/capsule_231x87.jpg",
+        "gameName": "Marvel Rivals",
+        "concurrentPlayersPeakToday": 325530
+    },
+    {
+        "gameId": 4,
+        "gameImage": "https://steamdb.info/static/img/capsules/218.jpg",
+        "gameName": "Source SDK Base 2007",
+        "concurrentPlayersPeakToday": 214993
+    },
+    {
+        "gameId": 5,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578080/72361ae79b439e83e17445e5d9ab3fab7aba8a60/capsule_231x87.jpg",
+        "gameName": "PUBG: BATTLEGROUNDS",
+        "concurrentPlayersPeakToday": 781452
+    },
+    {
+        "gameId": 6,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2923300/capsule_231x87.jpg?t=1740421053",
+        "gameName": "Banana",
+        "concurrentPlayersPeakToday": 130228
+    },
+    {
+        "gameId": 7,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg",
+        "gameName": "Rust",
+        "concurrentPlayersPeakToday": 142649
+    },
+    {
+        "gameId": 8,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg",
+        "gameName": "Kingdom Come: Deliverance II",
+        "concurrentPlayersPeakToday": 112259
+    },
+    {
+        "gameId": 9,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg?t=1740517837",
+        "gameName": "Grand Theft Auto V",
+        "concurrentPlayersPeakToday": 150015
+    },
+    {
+        "gameId": 10,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172470/7d3e05f336b7be33086089dd968e45fb0867ea14/capsule_231x87.jpg",
+        "gameName": "Apex Legends",
+        "concurrentPlayersPeakToday": 170647
+    },
+    {
+        "gameId": 11,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359550/capsule_231x87.jpg?t=1740517171",
+        "gameName": "Tom Clancy's Rainbow Six Siege",
+        "concurrentPlayersPeakToday": 73841
+    },
+    {
+        "gameId": 12,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg?t=1740329591",
+        "gameName": "Baldur's Gate 3",
+        "concurrentPlayersPeakToday": 66951
+    },
+    {
+        "gameId": 13,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2252570/capsule_231x87.jpg?t=1739923570",
+        "gameName": "Football Manager 2024",
+        "concurrentPlayersPeakToday": 67646
+    },
+    {
+        "gameId": 14,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2694490/capsule_231x87.jpg?t=1740414585",
+        "gameName": "Path of Exile 2",
+        "concurrentPlayersPeakToday": 71783
+    },
+    {
+        "gameId": 15,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/2097f73bc73e84ff9928e8e65b6328800054da57/capsule_231x87.jpg",
+        "gameName": "HELLDIVERS™ 2",
+        "concurrentPlayersPeakToday": 57675
+    },
+    {
+        "gameId": 16,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/capsule_231x87.jpg?t=1740519504",
+        "gameName": "Call of Duty®",
+        "concurrentPlayersPeakToday": 58906
+    },
+    {
+        "gameId": 17,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2507950/141ae76a2898a503163fa81fd0d77c27ad41ddb7/capsule_231x87.jpg",
+        "gameName": "Delta Force",
+        "concurrentPlayersPeakToday": 105248
+    },
+    {
+        "gameId": 18,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238960/capsule_231x87.jpg?t=1740106363",
+        "gameName": "Path of Exile",
+        "concurrentPlayersPeakToday": 56633
+    },
+    {
+        "gameId": 19,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/230410/8d788a31ea9c89b00bc031d8526f6ad55b6f3e30/capsule_231x87.jpg",
+        "gameName": "Warframe",
+        "concurrentPlayersPeakToday": 57249
+    },
+    {
+        "gameId": 20,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236390/7ccd42d6e2be24017f20c19f1f940f6a32a2573f/capsule_231x87.jpg",
+        "gameName": "War Thunder",
+        "concurrentPlayersPeakToday": 73066
+    },
+    {
+        "gameId": 21,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1366800/234e95b8ef8818cc506cc5ed4c5ea01dd1a6de0b/capsule_231x87.jpg",
+        "gameName": "Crosshair X",
+        "concurrentPlayersPeakToday": 57762
+    },
+    {
+        "gameId": 22,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2669320/62133559db3c4666ba5c1e55125093aa5f4d27fa/capsule_231x87.jpg",
+        "gameName": "EA SPORTS FC 25",
+        "concurrentPlayersPeakToday": 65189
+    },
+    {
+        "gameId": 23,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87.jpg?t=1740499968",
+        "gameName": "Wallpaper Engine",
+        "concurrentPlayersPeakToday": 122819
+    },
+    {
+        "gameId": 24,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1085660/capsule_231x87.jpg?t=1740502938",
+        "gameName": "Destiny 2",
+        "concurrentPlayersPeakToday": 48365
+    },
+    {
+        "gameId": 25,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/221100/capsule_231x87.jpg?t=1740492020",
+        "gameName": "DayZ",
+        "concurrentPlayersPeakToday": 54205
+    },
+    {
+        "gameId": 26,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/440/capsule_231x87.jpg?t=1740459763",
+        "gameName": "Team Fortress 2",
+        "concurrentPlayersPeakToday": 52230
+    },
+    {
+        "gameId": 27,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1739975387",
+        "gameName": "Stardew Valley",
+        "concurrentPlayersPeakToday": 75951
+    },
+    {
+        "gameId": 28,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1782210/capsule_231x87.jpg?t=1740119392",
+        "gameName": "Crab Game",
+        "concurrentPlayersPeakToday": 45514
+    },
+    {
+        "gameId": 29,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_231x87.jpg?t=1740456740",
+        "gameName": "ELDEN RING",
+        "concurrentPlayersPeakToday": 51208
+    },
+    {
+        "gameId": 30,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg?t=1739375992",
+        "gameName": "Dead by Daylight",
+        "concurrentPlayersPeakToday": 43866
+    },
+    {
+        "gameId": 31,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222670/capsule_231x87.jpg?t=1740506535",
+        "gameName": "The Sims™ 4",
+        "concurrentPlayersPeakToday": 37527
+    },
+    {
+        "gameId": 32,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1740151838",
+        "gameName": "Sid Meier's Civilization VI",
+        "concurrentPlayersPeakToday": 44041
+    },
+    {
+        "gameId": 33,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/438100/capsule_231x87.jpg?t=1740311411",
+        "gameName": "VRChat",
+        "concurrentPlayersPeakToday": 42756
+    },
+    {
+        "gameId": 34,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2357570/3d9c240a1c3d86504856fe002e864066a1b0bb19/capsule_231x87.jpg",
+        "gameName": "Overwatch® 2",
+        "concurrentPlayersPeakToday": 34610
+    },
+    {
+        "gameId": 35,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/394360/capsule_231x87.jpg?t=1740493661",
+        "gameName": "Hearts of Iron IV",
+        "concurrentPlayersPeakToday": 44182
+    },
+    {
+        "gameId": 36,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1295660/56f256d5776521616d8842cd435f97b22de655cd/capsule_231x87.jpg",
+        "gameName": "Sid Meier's Civilization VII",
+        "concurrentPlayersPeakToday": 33926
+    },
+    {
+        "gameId": 37,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2870990/f30d4cd8ade1620624d6b12c169d970e68b95616/capsule_231x87.jpg",
+        "gameName": "Mecha BREAK Demo",
+        "concurrentPlayersPeakToday": 256783
+    },
+    {
+        "gameId": 38,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1740459101",
+        "gameName": "The Elder Scrolls V: Skyrim Special Edition",
+        "concurrentPlayersPeakToday": 31146
+    },
+    {
+        "gameId": 39,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg?t=1740517051",
+        "gameName": "Euro Truck Simulator 2",
+        "concurrentPlayersPeakToday": 46911
+    },
+    {
+        "gameId": 40,
+        "gameImage": "https://steamdb.info/static/img/capsules/480.jpg",
+        "gameName": "Spacewar",
+        "concurrentPlayersPeakToday": 49713
+    },
+    {
+        "gameId": 41,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/252950/5885031cc4b9dcc6044aff9c6b00b43242af5b3f/capsule_231x87.jpg",
+        "gameName": "Rocket League",
+        "concurrentPlayersPeakToday": 29806
+    },
+    {
+        "gameId": 42,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623730/4f823e476ad290ad4f19763e7d800723df422dfa/capsule_231x87.jpg",
+        "gameName": "Palworld",
+        "concurrentPlayersPeakToday": 52613
+    },
+    {
+        "gameId": 43,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1740421318",
+        "gameName": "Balatro",
+        "concurrentPlayersPeakToday": 27714
+    },
+    {
+        "gameId": 44,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1740409896",
+        "gameName": "Red Dead Redemption 2",
+        "concurrentPlayersPeakToday": 50701
+    },
+    {
+        "gameId": 45,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/108600/capsule_231x87.jpg?t=1740520504",
+        "gameName": "Project Zomboid",
+        "concurrentPlayersPeakToday": 29164
+    },
+    {
+        "gameId": 46,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/892970/capsule_231x87.jpg?t=1740478483",
+        "gameName": "Valheim",
+        "concurrentPlayersPeakToday": 31197
+    },
+    {
+        "gameId": 47,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg?t=1740464472",
+        "gameName": "Cyberpunk 2077",
+        "concurrentPlayersPeakToday": 30490
+    },
+    {
+        "gameId": 48,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg?t=1738793801",
+        "gameName": "Left 4 Dead 2",
+        "concurrentPlayersPeakToday": 33032
+    },
+    {
+        "gameId": 49,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/250900/capsule_231x87.jpg?t=1740455629",
+        "gameName": "The Binding of Isaac: Rebirth",
+        "concurrentPlayersPeakToday": 31061
+    },
+    {
+        "gameId": 50,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2399830/capsule_231x87.jpg?t=1740518661",
+        "gameName": "ARK: Survival Ascended",
+        "concurrentPlayersPeakToday": 25591
+    },
+    {
+        "gameId": 51,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1281930/capsule_231x87.jpg?t=1740440491",
+        "gameName": "tModLoader",
+        "concurrentPlayersPeakToday": 36210
+    },
+    {
+        "gameId": 52,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2429640/capsule_231x87.jpg?t=1740281398",
+        "gameName": "THRONE AND LIBERTY",
+        "concurrentPlayersPeakToday": 27687
+    },
+    {
+        "gameId": 53,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg?t=1740480812",
+        "gameName": "Total War: WARHAMMER III",
+        "concurrentPlayersPeakToday": 25858
+    },
+    {
+        "gameId": 54,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/capsule_231x87.jpg?t=1740499828",
+        "gameName": "Phasmophobia",
+        "concurrentPlayersPeakToday": 27001
+    },
+    {
+        "gameId": 55,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/105600/capsule_231x87.jpg?t=1740166921",
+        "gameName": "Terraria",
+        "concurrentPlayersPeakToday": 31144
+    },
+    {
+        "gameId": 56,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/251570/capsule_231x87.jpg?t=1740515571",
+        "gameName": "7 Days to Die",
+        "concurrentPlayersPeakToday": 28571
+    },
+    {
+        "gameId": 57,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/capsule_231x87.jpg?t=1739574642",
+        "gameName": "ARK: Survival Evolved",
+        "concurrentPlayersPeakToday": 32312
+    },
+    {
+        "gameId": 58,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379430/capsule_231x87.jpg?t=1740067633",
+        "gameName": "Kingdom Come: Deliverance",
+        "concurrentPlayersPeakToday": 25643
+    },
+    {
+        "gameId": 59,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg?t=1740461520",
+        "gameName": "RimWorld",
+        "concurrentPlayersPeakToday": 25937
+    },
+    {
+        "gameId": 60,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/capsule_231x87.jpg?t=1740162575",
+        "gameName": "Farming Simulator 25",
+        "concurrentPlayersPeakToday": 33598
+    },
+    {
+        "gameId": 61,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg?t=1736900206",
+        "gameName": "Monster Hunter: World",
+        "concurrentPlayersPeakToday": 55971
+    },
+    {
+        "gameId": 62,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg",
+        "gameName": "Garry's Mod",
+        "concurrentPlayersPeakToday": 25735
+    },
+    {
+        "gameId": 63,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427520/capsule_231x87.jpg?t=1740055428",
+        "gameName": "Factorio",
+        "concurrentPlayersPeakToday": 22103
+    },
+    {
+        "gameId": 64,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1158310/capsule_231x87.jpg?t=1740499943",
+        "gameName": "Crusader Kings III",
+        "concurrentPlayersPeakToday": 19687
+    },
+    {
+        "gameId": 65,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/436150/capsule_231x87.jpg?t=1740137386",
+        "gameName": "Governor of Poker 3",
+        "concurrentPlayersPeakToday": 25755
+    },
+    {
+        "gameId": 66,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/2e45b2f419d0beed57ba1ff1d80a13d31f947d54/capsule_231x87.jpg",
+        "gameName": "FINAL FANTASY XIV Online",
+        "concurrentPlayersPeakToday": 18546
+    },
+    {
+        "gameId": 67,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582660/251501d00242f8d836446340c9021aa5f458bcd4/capsule_231x87.jpg",
+        "gameName": "Black Desert",
+        "concurrentPlayersPeakToday": 18792
+    },
+    {
+        "gameId": 68,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8930/capsule_231x87.jpg?t=1737505708",
+        "gameName": "Sid Meier's Civilization V",
+        "concurrentPlayersPeakToday": 18634
+    },
+    {
+        "gameId": 69,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2139460/144adf517acbfc23c27452b74e0e6a14207f3b69/capsule_231x87.jpg",
+        "gameName": "Once Human",
+        "concurrentPlayersPeakToday": 29172
+    },
+    {
+        "gameId": 70,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813780/capsule_231x87.jpg?t=1740486763",
+        "gameName": "Age of Empires II: Definitive Edition",
+        "concurrentPlayersPeakToday": 20264
+    },
+    {
+        "gameId": 71,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1599340/capsule_231x87.jpg?t=1739955568",
+        "gameName": "Lost Ark",
+        "concurrentPlayersPeakToday": 19023
+    },
+    {
+        "gameId": 72,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172620/57502441e09f5b8eaa560b2d1538cb3d68c32ab9/capsule_231x87.jpg",
+        "gameName": "Sea of Thieves",
+        "concurrentPlayersPeakToday": 21212
+    },
+    {
+        "gameId": 73,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg",
+        "gameName": "Europa Universalis IV",
+        "concurrentPlayersPeakToday": 18693
+    },
+    {
+        "gameId": 74,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623660/capsule_231x87.jpg?t=1739830249",
+        "gameName": "MIR4",
+        "concurrentPlayersPeakToday": 16702
+    },
+    {
+        "gameId": 75,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/275850/c56896aed2f8277878b108ecf908067017e7137d/capsule_231x87.jpg",
+        "gameName": "No Man's Sky",
+        "concurrentPlayersPeakToday": 17053
+    },
+    {
+        "gameId": 76,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/284160/capsule_231x87.jpg?t=1740514239",
+        "gameName": "BeamNG.drive",
+        "concurrentPlayersPeakToday": 21008
+    },
+    {
+        "gameId": 77,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/526870/fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_231x87.jpg",
+        "gameName": "Satisfactory",
+        "concurrentPlayersPeakToday": 17544
+    },
+    {
+        "gameId": 78,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1203620/4a6bf92e0d334fd13d77542ffd3c494b63343f2e/capsule_231x87.jpg",
+        "gameName": "Enshrouded",
+        "concurrentPlayersPeakToday": 18262
+    },
+    {
+        "gameId": 79,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1203220/babe303ef69e1f0b2d31330dc8ba43565c520af5/capsule_231x87.jpg",
+        "gameName": "NARAKA: BLADEPOINT",
+        "concurrentPlayersPeakToday": 215684
+    },
+    {
+        "gameId": 80,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1454400/capsule_231x87.jpg?t=1740400217",
+        "gameName": "Cookie Clicker",
+        "concurrentPlayersPeakToday": 15729
+    },
+    {
+        "gameId": 81,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/capsule_231x87.jpg?t=1740238220",
+        "gameName": "NBA 2K25",
+        "concurrentPlayersPeakToday": 38284
+    },
+    {
+        "gameId": 82,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1739506470",
+        "gameName": "Fallout 4",
+        "concurrentPlayersPeakToday": 14582
+    },
+    {
+        "gameId": 83,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg?t=1740420071",
+        "gameName": "ULTRAKILL",
+        "concurrentPlayersPeakToday": 22755
+    },
+    {
+        "gameId": 84,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/629520/capsule_231x87.jpg?t=1740385783",
+        "gameName": "Soundpad",
+        "concurrentPlayersPeakToday": 18686
+    },
+    {
+        "gameId": 85,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1476970/capsule_231x87.jpg?t=1740499968",
+        "gameName": "Legends of Idleon MMO",
+        "concurrentPlayersPeakToday": 14614
+    },
+    {
+        "gameId": 86,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3487890/faa8e1846f37709dc59da198a44a5635e932f91f/capsule_231x87.jpg",
+        "gameName": "Fellowship Demo",
+        "concurrentPlayersPeakToday": 14960
+    },
+    {
+        "gameId": 87,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322170/capsule_231x87.jpg?t=1737505218",
+        "gameName": "Geometry Dash",
+        "concurrentPlayersPeakToday": 17622
+    },
+    {
+        "gameId": 88,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/capsule_231x87.jpg?t=1737505244",
+        "gameName": "The Witcher 3: Wild Hunt",
+        "concurrentPlayersPeakToday": 19692
+    },
+    {
+        "gameId": 89,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1449850/2cfeb39d0907ae6ffe8ed071cf1f4b618ba7f3b3/capsule_231x87.jpg",
+        "gameName": "Yu-Gi-Oh! Master Duel",
+        "concurrentPlayersPeakToday": 30380
+    },
+    {
+        "gameId": 90,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg?t=1738771699",
+        "gameName": "Lethal Company",
+        "concurrentPlayersPeakToday": 16867
+    },
+    {
+        "gameId": 91,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261550/capsule_231x87.jpg?t=1740443955",
+        "gameName": "Mount & Blade II: Bannerlord",
+        "concurrentPlayersPeakToday": 22442
+    },
+    {
+        "gameId": 92,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322330/capsule_231x87.jpg?t=1740484586",
+        "gameName": "Don't Starve Together",
+        "concurrentPlayersPeakToday": 48668
+    },
+    {
+        "gameId": 93,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/291550/e91b8593d4911c9d867f8a377fb7ca24e10ce03d/capsule_231x87.jpg",
+        "gameName": "Brawlhalla",
+        "concurrentPlayersPeakToday": 13973
+    },
+    {
+        "gameId": 94,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg",
+        "gameName": "Deadlock",
+        "concurrentPlayersPeakToday": 14294
+    },
+    {
+        "gameId": 95,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1874880/capsule_231x87.jpg?t=1740439502",
+        "gameName": "Arma Reforger",
+        "concurrentPlayersPeakToday": 13189
+    },
+    {
+        "gameId": 96,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/306130/e064f5052d0139ccc22b004c39d6ac4bd874db90/capsule_231x87.jpg",
+        "gameName": "The Elder Scrolls Online",
+        "concurrentPlayersPeakToday": 14500
+    },
+    {
+        "gameId": 97,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304930/capsule_231x87.jpg?t=1740176552",
+        "gameName": "Unturned",
+        "concurrentPlayersPeakToday": 16789
+    },
+    {
+        "gameId": 98,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/63d6123610658adb5acd4d1b0991236dd83c3109/capsule_231x87.jpg",
+        "gameName": "Fallout 76",
+        "concurrentPlayersPeakToday": 13745
+    },
+    {
+        "gameId": 99,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/281990/16bbdb9ee38ec91433522604828fdbbbf2fae9ea/capsule_231x87.jpg",
+        "gameName": "Stellaris",
+        "concurrentPlayersPeakToday": 14379
+    },
+    {
+        "gameId": 100,
+        "gameImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/513710/capsule_231x87.jpg?t=1740491755",
+        "gameName": "SCUM",
+        "concurrentPlayersPeakToday": 20107
+    }
+]
