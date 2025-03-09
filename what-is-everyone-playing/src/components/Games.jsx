@@ -3,6 +3,7 @@ import {useEffect, useState} from "react";
 import {Right} from "./Right.jsx";
 import {Left} from "./Left.jsx";
 import {GameOverScreen} from "./GameOverScreen.jsx";
+import {Versus} from "./Versus.jsx";
 
 export const Games = ({gamesData, score, setScore, highscore, setHighscore}) => {
 
@@ -42,13 +43,14 @@ export const Games = ({gamesData, score, setScore, highscore, setHighscore}) => 
                 <Right game={rightGame}
                        gameInProgress={gameInProgress}
                        onHigher={() => guessGame(true)}
-                       onLower={() => guessGame(false)} />
+                       onLower={() => guessGame(false)}/>
             </div>
+            <Versus/>
             {!gameInProgress &&
                 <GameOverScreen score={score} onclick={() => {
                     setGameInProgress(true)
                     setScore(0)
-                    setGames(structuredClone(data));
+                    setGames(structuredClone(gamesData));
                 }}></GameOverScreen>
             }
         </>
