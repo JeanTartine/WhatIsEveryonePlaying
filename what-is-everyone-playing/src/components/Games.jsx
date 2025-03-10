@@ -3,7 +3,6 @@ import {useEffect, useState} from "react";
 import {Right} from "./Right.jsx";
 import {Left} from "./Left.jsx";
 import {GameOverScreen} from "./GameOverScreen.jsx";
-import {Versus} from "./Versus.jsx";
 
 export const Games = ({gamesData, score, setScore, highscore, setHighscore}) => {
 
@@ -12,19 +11,33 @@ export const Games = ({gamesData, score, setScore, highscore, setHighscore}) => 
     const [gameInProgress, setGameInProgress] = useState(true);
     const [leftGame, setLeftGame] = useState(null);
     const [rightGame, setRightGame] = useState(null);
+    const [correctGuess, setCorrectGuess] = useState(null);
+    const [playerIsGuessing, setPlayerIsGuessing] = useState(true)
 
     // Guess if the game has lower or higher active players
     const guessGame = (higher) => {
+        setPlayerIsGuessing(false)
         if (compareGames(leftGame, rightGame, higher)) {
-            setLeftGame(rightGame)
-            setRightGame(pickGame(games, setGames))
-            setScore(score + 1)
-            return;
+
+            setCorrectGuess(true)
+            setTimeout(() => {
+                setLeftGame(rightGame)
+                setRightGame(pickGame(games, setGames))
+                setScore(score + 1)
+                setCorrectGuess(null)
+                setPlayerIsGuessing(true)
+            }, 1000)
+        } else {
+            if (score > highscore) {
+                setHighscore(score)
+            }
+            setCorrectGuess(false)
+            setTimeout(() =>  {
+                setCorrectGuess(null)
+                setGameInProgress(false);
+                setPlayerIsGuessing(true)
+            }, 1000)
         }
-        if (score > highscore) {
-            setHighscore(score)
-        }
-        setGameInProgress(false);
     }
 
     // If the array contains 100 games and the game is in progress that means we are starting a new game
@@ -42,10 +55,11 @@ export const Games = ({gamesData, score, setScore, highscore, setHighscore}) => 
                 <Left game={leftGame}/>
                 <Right game={rightGame}
                        gameInProgress={gameInProgress}
+                       correctGuess={correctGuess}
+                       playerIsGuessing={playerIsGuessing}
                        onHigher={() => guessGame(true)}
                        onLower={() => guessGame(false)}/>
             </div>
-            <Versus/>
             {!gameInProgress &&
                 <GameOverScreen score={score} onclick={() => {
                     setGameInProgress(true)

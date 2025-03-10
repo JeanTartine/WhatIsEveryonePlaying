@@ -1,4 +1,3 @@
-import {useEffect} from "react";
 
 export const GameOverScreen = ({score, onclick}) => {
 

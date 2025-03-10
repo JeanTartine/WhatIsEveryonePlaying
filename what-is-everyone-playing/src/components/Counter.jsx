@@ -6,7 +6,6 @@ export const Counter = ({targetValue, duration = 1000, onComplete}) => {
 
     useEffect(() => {
         if (counterRef.current) {
-            //counterRef.current.classList.add('animate');
 
             const frameRate = 30;
             const timeBetweenFrames = 1000 / frameRate
