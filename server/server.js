@@ -23,10 +23,6 @@ app.get("/api/games", (req, res) => {
                 headless: true,
             }
 
-            if (process.env.PUPPETEER_CACHE_DIR) {
-                options['executablePath'] = '/opt/render/.cache/puppeteer'
-            }
-
             puppeteer.use(stealthplugin());
             const browser = await puppeteer.launch(options);
 
