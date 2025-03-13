@@ -20,7 +20,15 @@ app.get("/api/games", (req, res) => {
             // we use puppeteer-extra with the stealth plugin to be able to scrap in headless mode without being blocked by the website
             // if the env var to the browser executable (chromium for ex) is defined we use it
             const options = {
-                headless: true,
+                headless: 'new',
+                args: [
+                    '--no-sandbox',
+                    '--disable-setuid-sandbox',
+                    '--disable-dev-shm-usage',
+                    '--disable-accelerated-2d-canvas',
+                    '--disable-gpu',
+                    '--window-size=1920x1080',
+                ]
             }
 
             puppeteer.use(stealthplugin());
@@ -32,9 +40,11 @@ app.get("/api/games", (req, res) => {
                 waitUntil: "domcontentloaded",
             });
 
+            const pageContent = await page.content();
+            await page.screenshot({path: 'debug-screenshot.png'});
+            console.log('Page HTML contains target selector:', pageContent.includes('table-products'));
             // Waiting for the table to load
             await page.waitForSelector('.table-products', {timeout: 180000});
-
             const gamesArray = await page.evaluate(() => {
 
                 // We get all the games in the table
