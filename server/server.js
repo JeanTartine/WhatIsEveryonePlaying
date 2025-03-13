@@ -33,7 +33,7 @@ app.get("/api/games", (req, res) => {
             });
 
             // Waiting for the table to load
-            await page.waitForSelector('.table-products', {timeout: 5000});
+            await page.waitForSelector('.table-products', {timeout: 60000});
 
             const gamesArray = await page.evaluate(() => {
 
