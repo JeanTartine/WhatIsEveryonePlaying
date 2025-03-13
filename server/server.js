@@ -18,10 +18,17 @@ app.get("/api/games", (req, res) => {
             // - no default viewport (`defaultViewport: null` - website page will in full width and height)
 
             // we use puppeteer-extra with the stealth plugin to be able to scrap in headless mode without being blocked by the website
+            // if the env var to the browser executable (chromium for ex) is defined we use it
+            const options = {
+                headless: true,
+            }
+
+            if (process.env.PUPPETEER_CACHE_DIR) {
+                options['executablePath'] = '/opt/render/.cache/puppeteer'
+            }
+
             puppeteer.use(stealthplugin());
-            const browser = await puppeteer.launch({
-                headless: true
-            });
+            const browser = await puppeteer.launch(options);
 
             const page = await browser.newPage();
 
@@ -56,11 +63,14 @@ app.get("/api/games", (req, res) => {
 
         } catch (error) {
             console.error('Error scraping games:', error);
+            res.status(500).json({
+                error: 'Failed to scrape games data',
+                message: error.message
+            });
         }
     };
 
-    getGames();
-
+    getGames()
 })
 
 app.listen(8080, () => {
